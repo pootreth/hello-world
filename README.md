@@ -8,5 +8,6 @@
 <br>
 
 - 📫 Reach me at:
+  - [Linkedin](https://linkedin.com/in/yemimasutanto)
   - [📸 Instagram](https://instagram.com/yemimasutanto)
   - 📧 yemimasutanto28@gmail.com
